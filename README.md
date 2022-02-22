@@ -6,5 +6,7 @@
 - 💬 Ask me about astonishing ⚡technologies , 🎨 art , cycle of building a problem solving project 🏗 .
 - 📫 How to reach me: 📧 omkar18sawant@gmail.com 
 - 😄 Pronouns: He , Him 
-- ⚡ Fun fact: I will love to work and colloborate with you in your project .
+- ⚡ Fun fact: I will love to work and colloborate  .
+
+
 ## If intrested contact me , ... Awating for creating a Epic Project . 
