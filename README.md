@@ -16,10 +16,12 @@
 - 📫 How to reach me **📧 omkar18sawant@gmail.com**
 
 - ⚡ Fun fact **I will love to work and collaborate .**
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--  twitter  -->
+
 <a href="https://twitter.com/omkar18sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/twitter.svg" alt="omkar18sawant" height="30" width="40" /></a>
 <!-- linkedin   -->
 <a href="https://linkedin.com/in/omkar-sawant-96b05b17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/linkedin.svg" alt="omkar sawant" height="30" width="40" /></a>
@@ -30,8 +32,8 @@
 <!-- medium -->
   <a href="https://medium.com/@omkar18sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/medium.svg" alt="@omkar18sawant" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<br/><br/>
+<h3 align="left"> Frontend:</h3>
 <p align="left"> 
 <!-- frontend -->
     <!-- android   -->
@@ -44,7 +46,8 @@
     <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/frontend/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<br/><br/><br/>
+<br/>
+<h3 align="left">Backend :</h3>
 <p align="left"> 
 <!-- backend -->
     <!-- go   -->
@@ -67,10 +70,11 @@
 </p>
 
 
-<br/><br/><br/>
+<br/>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
       <!-- kotlin   -->
-  <a href="https://kotlin.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/koltin.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://kotlin.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
       <!-- dart   -->
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/dart.svg" alt="dart" width="40" height="40"/> </a>
      <!-- js   -->
@@ -88,8 +92,10 @@
      <!-- C   -->
   <a href="https://java.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/c-original.svg" alt="java" width="40" height="40"/> </a>
      <!-- C++   -->
-  <a href="https://c-plus-plus.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/c-plus-plus-original.svg" alt="c++" width="40" height="40"/> </a>
+  <a href="https://c-plus-plus.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
 </p>
+<br/>
+<h3 align="left">Others:</h3>
 <p align="left"> 
      <!-- Linux  -->
   <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/others/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -101,4 +107,6 @@
   <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/others/unity.svg" alt="unity" width="40" height="40"/> </a>
   
   </p>
-## If intrested contact me , ... Awating for creating a Epic Project . 
+
+
+##If intrested contact me , ... Awating for creating a Epic Project . 
