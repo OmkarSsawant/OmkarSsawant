@@ -92,13 +92,13 @@
 </p>
 <p align="left"> 
      <!-- Linux  -->
-  <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/others/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <!-- Figma  -->
-  <a href="https://figma.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/figma.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://figma.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/others/figma.svg" alt="figma" width="40" height="40"/> </a>
     <!-- Git  -->
-  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/git.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/others/git.svg" alt="git" width="40" height="40"/> </a>
    <!-- Unity  -->
-  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/langs/unity.svg" alt="unity" width="40" height="40"/> </a>
+  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/others/unity.svg" alt="unity" width="40" height="40"/> </a>
   
   </p>
 ## If intrested contact me , ... Awating for creating a Epic Project . 
