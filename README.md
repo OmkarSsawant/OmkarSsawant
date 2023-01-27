@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Sawant</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
+<h3 align="center">Google DSC Club Lead at DMCE , Airoli</h3>
 
 - 🔭 I’m currently working on **Bringing ideas to life🌲**
 
@@ -7,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **creating diffrent unique projects applying my knowledge to full potential and learning from experiences.**
 
-- 👨‍💻 All of my projects are available at [https://omkar-sawant.netlify.com/](https://omkar-sawant.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://omkar-sawant.vercel.com/](https://omkar-sawant.netlify.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@omkar18sawant](https://medium.com/@omkar18sawant)
 
