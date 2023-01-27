@@ -22,21 +22,8 @@
 - ⚡ Fun fact **I will love to work and collaborate .**
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--  twitter  -->
 
-<a href="https://twitter.com/omkar18sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/twitter.svg" alt="omkar18sawant" height="30" width="40" /></a>
-<!-- linkedin   -->
-<a href="https://linkedin.com/in/omkar-sawant-96b05b17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/linkedin.svg" alt="omkar sawant" height="30" width="40" /></a>
-<!--  fb  -->
-<a href="https://fb.com/omkar18sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/facebook.svg" alt="omkar sawant" height="30" width="40" /></a>
-<!-- instagram -->
-  <a href="https://instagram.com/omkar18sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/instagram.svg" alt="omkar sawant" height="30" width="40" /></a>
-<!-- medium -->
-  <a href="https://medium.com/@omkar18sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/medium.svg" alt="@omkar18sawant" height="30" width="40" /></a>
-</p>
-<br/><br/>
+  
 <h3 align="left"> Frontend:</h3>
 <p align="left"> 
 <!-- frontend -->
@@ -111,4 +98,19 @@
   <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/others/unity.svg" alt="unity" width="40" height="40"/> </a>
   
   </p>
+<h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<!--  twitter  -->
+
+<a href="https://twitter.com/omkar18sawant" target="blank"><img align="left" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/twitter.svg" alt="omkar18sawant" height="30" width="40" /></a>
+<!-- linkedin   -->
+<a href="https://linkedin.com/in/omkar-sawant-96b05b17a" target="blank"><img align="left"  src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/linkedin.svg" alt="omkar sawant" height="30" width="40" /></a>
+<!--  fb  -->
+<a href="https://fb.com/omkar18sawant" target="blank"><img align="left" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/facebook.svg" alt="omkar sawant" height="30" width="40" /></a>
+<!-- instagram -->
+  <a href="https://instagram.com/omkar18sawant" target="blank"><img align="left" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/instagram.svg" alt="omkar sawant" height="30" width="40" /></a>
+<!-- medium -->
+  <a href="https://medium.com/@omkar18sawant" target="blank"><img align="left" src="https://raw.githubusercontent.com/OmkarSsawant/OmkarSsawant/main/assets/social/medium.svg" alt="@omkar18sawant" height="30" width="40" /></a>
+</p>
+<br/><br/>
