@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **creating diffrent unique projects applying my knowledge to full potential and learning from experiences.**
 
-- 👨‍💻 All of my projects are available at [https://omkar-sawant.vercel.com/](https://omkar-sawant.netlify.com/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://omkar-sawant.vercel.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@omkar18sawant](https://medium.com/@omkar18sawant)
 
