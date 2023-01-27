@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Sawant</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
+<img align="center" style="margin-left:40vw" width="200" height="100" src="https://developers.google.com/static/site-assets/images/home/developers-social-media.png" alt="GDSC Logo"/>
 <h3 align="center">Google DSC Club Lead at DMCE , Airoli</h3>
 
 - 🔭 I’m currently working on **Bringing ideas to life🌲**
