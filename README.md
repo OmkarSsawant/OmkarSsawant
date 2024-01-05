@@ -3,7 +3,7 @@
 <div style="display:flex;">
 <img  style="margin-left:40vw;" width="200" height="100" src="https://developers.google.com/community/gdsc/images/gdsc-social-share.png" alt="GDSC Logo"/>
 
-  <h3 >Google DSC Club Lead at DMCE , Airoli</h3>
+  <h3 >Ex-Google DSC Club Lead '22 at DMCE , Airoli</h3>
 </div>
 - 🔭 I’m currently working on **Bringing ideas to life🌲**
 
