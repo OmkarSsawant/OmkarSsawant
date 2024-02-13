@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **📧 omkar18sawant@gmail.com**
 
-- ⚡ Fun fact **I will love to work and collaborate .**
+- ⚡ **I will love to  collaborate and work .**
 <br/>
 
 
